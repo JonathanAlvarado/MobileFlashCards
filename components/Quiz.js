@@ -69,7 +69,7 @@ class Quiz extends Component {
       <View style={{flex: 1, backgroundColor: white}}>
         {
           currentIndex === questions.length ?
-          <View style={[styles.container, {marginTop: 130}]}>
+          <View style={[styles.container, {marginTop: 145}]}>
             <Text style={{fontWeight: 'bold', fontSize: 28}}>Final Score:</Text>
             <Text style={{fontWeight: 'bold', fontSize: 28}}>You had {this.state.right} of {questions.length} correct answers</Text>
             <Button
