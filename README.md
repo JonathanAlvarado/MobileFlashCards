@@ -16,7 +16,7 @@ Below you'll find information about performing common tasks. The most recent ver
 
 ## Installation
 ```
-git clone https://github.com/fredydeltoro/MobileFlashCards.git
+git clone https://github.com/JonathanAlvarado/MobileFlashCards.git
 cd MobileFlashcards
 yarn install
 yarn start
